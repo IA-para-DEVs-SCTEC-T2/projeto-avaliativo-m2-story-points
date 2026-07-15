@@ -1,0 +1,20 @@
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar relatórios gerados pelo agente em runtime
+results/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ignorar ambientes virtuais
+.venv/
+env/
+venv/
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
