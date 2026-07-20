@@ -61,7 +61,7 @@ Cada nó é uma função Python que recebe e retorna partes do `AgentState`. O r
 
 ### Pré-requisitos
 - Python 3.10+
-- Conta na [Groq](https://console.groq.com) (gratuita) para obter a API key
+- Conta na [Groq](https://console.groq.com) (gratuita) para obter a API key https://groq.com/
 
 ### 1. Clone o repositório
 ```bash
