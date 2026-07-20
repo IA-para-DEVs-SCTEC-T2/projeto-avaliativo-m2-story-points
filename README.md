@@ -65,7 +65,7 @@ Cada nó é uma função Python que recebe e retorna partes do `AgentState`. O r
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/IA-para-DEVs-SCTEC-T2/projeto-avaliativo-m2-story-points
 cd projeto-avaliativo-m2-story-points
 ```
 
